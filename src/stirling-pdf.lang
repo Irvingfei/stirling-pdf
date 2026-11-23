@@ -1,0 +1,97 @@
+[zh-cn]
+name = "Stirling-PDF"
+auth = "TerraMaster 社区开发者"
+descript = "本地运行的 PDF 工具箱：合并、拆分、压缩、格式转换、OCR、加密与水印等五十多种操作，文件只在 NAS 上处理，不上传到外部服务。"
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "默认不启用登录认证；如需访问控制，请在应用配置中把 SECURITY_ENABLELOGIN 改为 true。配置、日志与临时文件保存在应用数据目录。"
+
+[zh-hk]
+name = "Stirling-PDF"
+auth = "TerraMaster 社群開發者"
+descript = "本機執行的 PDF 工具箱：合併、拆分、壓縮、格式轉換、OCR、加密與浮水印等五十多種操作，檔案只在 NAS 上處理，不上傳到外部服務。"
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "預設不啟用登入驗證；如需存取控制，請在應用設定中把 SECURITY_ENABLELOGIN 改為 true。設定、日誌與暫存檔案保存在應用資料目錄。"
+
+[en-us]
+name = "Stirling-PDF"
+auth = "TerraMaster Community Developer"
+descript = "A locally hosted PDF toolbox with more than fifty operations such as merge, split, compress, convert, OCR, encryption and watermarking; files are processed on the NAS only."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "Login is disabled by default; set SECURITY_ENABLELOGIN to true in the application configuration if you need access control. Configs, logs and temporary files stay in the application data directory."
+
+[fr-fr]
+name = "Stirling-PDF"
+auth = "Développeur communautaire TerraMaster"
+descript = "A locally hosted PDF toolbox with more than fifty operations such as merge, split, compress, convert, OCR, encryption and watermarking; files are processed on the NAS only."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "Login is disabled by default; set SECURITY_ENABLELOGIN to true in the application configuration if you need access control. Configs, logs and temporary files stay in the application data directory."
+
+[de-de]
+name = "Stirling-PDF"
+auth = "TerraMaster Community-Entwickler"
+descript = "A locally hosted PDF toolbox with more than fifty operations such as merge, split, compress, convert, OCR, encryption and watermarking; files are processed on the NAS only."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "Login is disabled by default; set SECURITY_ENABLELOGIN to true in the application configuration if you need access control. Configs, logs and temporary files stay in the application data directory."
+
+[it-it]
+name = "Stirling-PDF"
+auth = "Sviluppatore della community TerraMaster"
+descript = "A locally hosted PDF toolbox with more than fifty operations such as merge, split, compress, convert, OCR, encryption and watermarking; files are processed on the NAS only."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "Login is disabled by default; set SECURITY_ENABLELOGIN to true in the application configuration if you need access control. Configs, logs and temporary files stay in the application data directory."
+
+[es-es]
+name = "Stirling-PDF"
+auth = "Desarrollador de la comunidad TerraMaster"
+descript = "A locally hosted PDF toolbox with more than fifty operations such as merge, split, compress, convert, OCR, encryption and watermarking; files are processed on the NAS only."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "Login is disabled by default; set SECURITY_ENABLELOGIN to true in the application configuration if you need access control. Configs, logs and temporary files stay in the application data directory."
+
+[hu-hu]
+name = "Stirling-PDF"
+auth = "TerraMaster közösségi fejlesztő"
+descript = "A locally hosted PDF toolbox with more than fifty operations such as merge, split, compress, convert, OCR, encryption and watermarking; files are processed on the NAS only."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "Login is disabled by default; set SECURITY_ENABLELOGIN to true in the application configuration if you need access control. Configs, logs and temporary files stay in the application data directory."
+
+[ja-jp]
+name = "Stirling-PDF"
+auth = "TerraMaster コミュニティ開発者"
+descript = "A locally hosted PDF toolbox with more than fifty operations such as merge, split, compress, convert, OCR, encryption and watermarking; files are processed on the NAS only."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "Login is disabled by default; set SECURITY_ENABLELOGIN to true in the application configuration if you need access control. Configs, logs and temporary files stay in the application data directory."
+
+[ko-kr]
+name = "Stirling-PDF"
+auth = "TerraMaster 커뮤니티 개발자"
+descript = "A locally hosted PDF toolbox with more than fifty operations such as merge, split, compress, convert, OCR, encryption and watermarking; files are processed on the NAS only."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "Login is disabled by default; set SECURITY_ENABLELOGIN to true in the application configuration if you need access control. Configs, logs and temporary files stay in the application data directory."
+
+[pl-pl]
+name = "Stirling-PDF"
+auth = "Społecznościowy deweloper TerraMaster"
+descript = "A locally hosted PDF toolbox with more than fifty operations such as merge, split, compress, convert, OCR, encryption and watermarking; files are processed on the NAS only."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "Login is disabled by default; set SECURITY_ENABLELOGIN to true in the application configuration if you need access control. Configs, logs and temporary files stay in the application data directory."
+
+[ru-ru]
+name = "Stirling-PDF"
+auth = "Разработчик сообщества TerraMaster"
+descript = "A locally hosted PDF toolbox with more than fifty operations such as merge, split, compress, convert, OCR, encryption and watermarking; files are processed on the NAS only."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "Login is disabled by default; set SECURITY_ENABLELOGIN to true in the application configuration if you need access control. Configs, logs and temporary files stay in the application data directory."
+
+[tr-tr]
+name = "Stirling-PDF"
+auth = "TerraMaster topluluk geliştiricisi"
+descript = "A locally hosted PDF toolbox with more than fifty operations such as merge, split, compress, convert, OCR, encryption and watermarking; files are processed on the NAS only."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "Login is disabled by default; set SECURITY_ENABLELOGIN to true in the application configuration if you need access control. Configs, logs and temporary files stay in the application data directory."
+
+[pt-pt]
+name = "Stirling-PDF"
+auth = "Programador da comunidade TerraMaster"
+descript = "A locally hosted PDF toolbox with more than fifty operations such as merge, split, compress, convert, OCR, encryption and watermarking; files are processed on the NAS only."
+release_note = "1.0.0: First release, packaged from the official Docker Hub image stirlingtools/stirling-pdf, running with UID/GID 1000."
+important = "Login is disabled by default; set SECURITY_ENABLELOGIN to true in the application configuration if you need access control. Configs, logs and temporary files stay in the application data directory."

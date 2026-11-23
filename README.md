@@ -12,6 +12,17 @@ A locally hosted PDF toolbox with more than fifty operations such as merge, spli
 - Upstream image: see `docker-compose.yml` in the downloaded asset
 - Web UI port: declared in `x-app-meta`
 
+## Source
+
+The `src/` directory contains the files the package is built from:
+
+- `src/config.x86_64.ini` / `src/config.aarch64.ini` — `config.ini` per architecture
+- `src/docker-compose.yml` — compose template; `@@...@@` placeholders are replaced at build time
+- `src/stirling-pdf.lang` — 14 language sections
+- `src/stirling-pdf.svg` — application icon
+
+Build toolchain: https://github.com/Irvingfei/tos-docker-apps
+
 ## Install
 
 1. In the TOS App Center, add this repository's application and submit the matching `stirling-pdf_<arch>.tar.gz` asset from the latest Release.
