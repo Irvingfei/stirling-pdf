@@ -8,4 +8,4 @@ assets are built from these files.
 - `stirling-pdf.lang` — 14 language sections
 - `stirling-pdf.svg` — application icon
 
-Build toolchain: https://github.com/Irvingfei/tos-docker-apps
+Build toolchain: https://github.com/Irvingfei/docker-apps
